@@ -1,0 +1,15 @@
+.navbar {
+    position: absolute;
+    z-index: 100;
+}
+body > .bg-light{
+    background-color: rgba(255, 255, 255, 0.808) !important;
+}
+
+#carouselExampleCaptions {
+    width: 80%;
+}
+
+img.img {
+    height: 100vh;
+}

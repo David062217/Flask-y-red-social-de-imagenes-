@@ -1,0 +1,14 @@
+section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    padding: 0 100px 0 100px;
+}
+
+section > div > a > img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+section > div:nth-child(1){
+    width: 80%;
+}
